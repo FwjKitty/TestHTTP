@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<youdao-fanyi>
+	<errorCode>0</errorCode>
+	<query><![CDATA[FWJ]]></query>    <!-- 有道翻译 -->
+	<translation>
+		<paragraph><![CDATA[fwj]]></paragraph>
+	</translation>    <!-- 有道词典-网络释义 -->
+	<web>
+		<explain>
+			<key><![CDATA[FWJ]]></key>
+			<value>
+				<ex><![CDATA[梦幻西游(Fantasy Westward Journey)]]></ex>
+				<ex><![CDATA[继电器]]></ex>
+				<ex><![CDATA[网址]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[Freinds in FWJ]]></key>
+			<value>
+				<ex><![CDATA[梦幻西游旳朋友]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[riengz fwj lo]]></key>
+			<value>
+				<ex><![CDATA[水绕山脚歌绕云]]></ex>
+			</value>
+		</explain>
+	</web>
+</youdao-fanyi>
